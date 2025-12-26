@@ -10,11 +10,12 @@ back/instance/
 
 # ===== Crawling / Generated =====
 back/crawled_data/
+data/
 logs/
 *.log
 *.csv
-*.json
 *.zip
+*.txt
 
 # ===== Front =====
 node_modules/
@@ -24,3 +25,4 @@ dist/
 # ===== IDE =====
 .vscode/
 .idea/
+.gemini/
