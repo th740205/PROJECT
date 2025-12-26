@@ -24,4 +24,3 @@ dist/
 # ===== IDE =====
 .vscode/
 .idea/
-private/
